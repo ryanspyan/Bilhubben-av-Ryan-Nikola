@@ -44,7 +44,7 @@ overflow-y:auto ;
 grid-area: logo;
 float: right;
 position: relative;
-width:100%;
+width:97%;
 }
 
 @media screen and (min-width: 640px) {
