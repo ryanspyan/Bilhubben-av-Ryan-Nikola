@@ -222,6 +222,7 @@ margin-top:100px;
 	padding: 8px 15px 8px 15px;
 	background: #a2a7ac;
 	color: #fff;
+	cursor: pointer;
 	;
 }
 .formulär input[type=submit]:hover,
